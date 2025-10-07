@@ -11,7 +11,7 @@ from langchain_openai import ChatOpenAI
 
 class Chatbot:
     def __init__(self, db=None):
-        self.current_model = "gemini"  # Default to Google Generative AI
+        self.current_model = "openai"  # Default to OpenAI
         self.school_data = self._load_school_data()
         self.openai_model = None
         self.gemini_model = None
