@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,31713,t=>{"use strict";t.s(["default",()=>s]);var e=t.i(71645),u=t.i(18566);function s(){let t=(0,u.useRouter)();return(0,e.useEffect)(()=>{t.push("/student-chat")},[t]),null}}]);
