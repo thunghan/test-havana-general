@@ -1,0 +1,9 @@
+flask==3.0.0
+flask-socketio==5.3.6
+flask-cors==4.0.0
+langchain==0.3.27
+langchain-openai==0.3.30
+langchain-google-genai==2.0.5
+python-dotenv==1.1.1
+mysql-connector-python==9.2.0
+
